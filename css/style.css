@@ -8,6 +8,9 @@
   width: 35%;
   z-index: 1;
 }
+.about{
+  padding-right: 20px;
+}
 
 .nav{
   margin-left: 60px;
@@ -27,6 +30,11 @@ h1{
   font-size: 32px;
   line-height: 50px;
   letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.chat{
+  padding-top: 30px;
   padding-bottom: 10px;
 }
 
@@ -66,13 +74,6 @@ i{
   height: 1000px;
   position: absolute;
   width: 100%;
-}
-#btxt{
-  text-align: left;
-  margin-top: -150px;
-  margin-left: 1150px;
-  padding-right: 30px;
-  font-family: 'Roboto', sans-serif;
 }
 
 .butterfly, .restaurant{
